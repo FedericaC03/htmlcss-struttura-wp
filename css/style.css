@@ -6,10 +6,9 @@
 
 header {
   height: 200px;
-  background-color: #FEFE3A;
   width: 98%;
+  background-color: #FEFE3A;
   margin: auto;
-
 }
 
 main::after {
@@ -17,6 +16,7 @@ main::after {
   display: block;
   clear: both;
 }
+
 main {
   margin-top: 5px;
   margin-bottom: 5px;
