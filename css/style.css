@@ -9,6 +9,7 @@ header {
   background-color: #FEFE3A;
   width: 98%;
   margin: auto;
+
 }
 
 main::after {
@@ -18,6 +19,7 @@ main::after {
 }
 main {
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 
  .left , .right {
@@ -37,4 +39,23 @@ main {
 
 .left {
   margin-left: 15px;
+}
+
+#down  {
+  margin-top: 10px;
+  height: 280px;
+  width: 30%;
+  background-color: #CC87DA;
+  float: left;
+}
+
+.right {
+  height: 280px;
+}
+
+footer {
+  height: 100px;
+  background-color: #A4D2E1;
+  width: 98%;
+  margin: auto;
 }
