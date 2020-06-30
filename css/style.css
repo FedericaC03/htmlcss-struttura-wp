@@ -22,10 +22,8 @@ main {
   margin-bottom: 5px;
 }
 
- .left , .right {
-  height: 300px;
+ .left, .right {
   width: 30%;
-  background-color: #CC87DA;
   float: left;
 }
 
@@ -39,18 +37,8 @@ main {
 
 .left {
   margin-left: 15px;
-}
-
-#down  {
-  margin-top: 10px;
-  height: 280px;
-  width: 30%;
+  height: 300px;
   background-color: #CC87DA;
-  float: left;
-}
-
-.right {
-  height: 280px;
 }
 
 footer {
@@ -58,4 +46,10 @@ footer {
   background-color: #A4D2E1;
   width: 98%;
   margin: auto;
+}
+
+.content {
+  height: 270px;
+  background-color: #CC87DA;
+  margin-bottom: 10px;
 }
